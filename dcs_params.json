@@ -1,0 +1,16 @@
+[
+  {
+      "name": "VARIOMETER_L",
+      "type": "int",
+      "address": "0x26C6",
+      "mask": "0xFFFF",
+      "shift_by": 0
+  },
+  {
+      "name": "LEFT_ENGINE_RPM",
+      "type": "int",
+      "address": "0x2716",
+      "mask": "0xFFFF",
+      "shift_by": 0
+  }
+]
